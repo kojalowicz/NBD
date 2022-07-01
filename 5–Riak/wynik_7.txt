@@ -1,0 +1,27 @@
+$ curl -i -v http://localhost:8098/types/default/buckets/s15295/keys/zad1-4
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> GET /types/default/buckets/s15295/keys/zad1-4 HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+>
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 404 Object Not Found
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Tue, 15 Jun 2022 17:13:04 GMT
+< Content-Type: text/plain
+< Content-Length: 10
+<
+{ [10 bytes data]
+100    10  100    10    0     0   4458      0 --:--:-- --:--:-- --:--:-- 10000HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Tue, 15 Jun 2022 17:13:04 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+
+* Connection #0 to host localhost left intact

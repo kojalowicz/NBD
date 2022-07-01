@@ -1,0 +1,40 @@
+Zad 01.
+curl -i -v -XPUT http://localhost:8098/types/default/buckets/s15295/props -H'content-type:application/json' -d'{"props":{}}'
+
+curl -i -v -XPUT -d '{"var1": "string val1", "var2": 123, "var3": true, "var4":{"imie":"ola", "nazwisko": "Piekna"}}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-1?returnbody=true
+
+curl -i -v -XPUT -d '{"var1": "string val2", "var2": 321, "var3": false, "var4":[]}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-2?returnbody=true
+
+curl -i -v -XPUT -d '{"var1": "string val3", "var2": 999, "var3": true, "var4":null}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-3?returnbody=true
+
+curl -i -v -XPUT -d '{"var1": "string val4", "var2": 122, "var3": false, "var4":["ola", "przedszkola"]}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-4?returnbody=true
+
+curl -i -v -XPUT -d '{"var1": "string val5", "var2": 4321, "var3": true, "var4":[123, 321]}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-5?returnbody=true
+
+Zad 02.
+curl -i -v http://127.0.0.1:8098/types/default/buckets/s15295/keys/zad1-4
+
+Zad 03.
+curl -i -v -XPUT -d '{"var5": "new value", "var2": 999, "var3": true, "var4":null, "var5": "new value"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-3?returnbody=true
+
+Zad 04.
+curl -i -v -XPUT -d '{"var2": 999, "var3": true, "var4":null, "var5": "new value"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-3?returnbody=true
+
+Zad 05.
+curl -i -v -XPUT -d '{"var2": 999, "var3": true, "var4":"zmodyfikowana wartosc", "var5": "new value"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-3?returnbody=true
+
+Zad 06.
+curl -i -v -XDELETE http://localhost:8098/types/default/buckets/s15295/keys/zad1-4
+
+Zad 07.
+curl -i -v http://localhost:8098/types/default/buckets/s15295/keys/zad1-4
+
+Zad 08.
+curl -i -v -XPOST -d '{"var1": "string val6"}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/?returnbody=true
+
+Zad 09.
+$ curl -i http://localhost:8098/buckets/s15295/keys?keys=true  
+curl -i -v http://localhost:8098/types/default/buckets/s15295/keys/8HLwLeMCElM07qErYZKsHzvCClC
+
+Zad 10.
+curl -i -v -XDELETE http://localhost:8098/types/default/buckets/s15295/keys/8HLwLeMCElM07qErYZKsHzvCClC

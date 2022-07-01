@@ -1,0 +1,27 @@
+$ curl -i -v -XDELETE http://localhost:8098/types/default/buckets/s15295/keys/8HLwLeMCElM07qErYZKsHzvCClC
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> DELETE /types/default/buckets/s15295/keys/8HLwLeMCElM07qErYZKsHzvCClC HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+>
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 204 No Content
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Date: Tue, 15 Jun 2022 17:29:44 GMT
+< Content-Type: application/json
+< Content-Length: 0
+<
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Tue, 15 Jun 2022 17:29:44 GMT
+Content-Type: application/json
+Content-Length: 0
+
+
+* Connection #0 to host localhost left intact

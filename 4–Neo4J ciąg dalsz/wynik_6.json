@@ -1,0 +1,1871 @@
+﻿[
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1443,
+"start": 1173,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1173,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 15:15:29",
+"duration": 83,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1173,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 15:15:29",
+"duration": 83,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1444,
+"start": 1173,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 211,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "SMF"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1478,
+"start": 1201,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1201,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/4/2015 05:06:26",
+"duration": 67,
+"distance": 373,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1201,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/4/2015 05:06:26",
+"duration": 67,
+"distance": 373,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1479,
+"start": 1201,
+"end": 211,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 211,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SMF"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 200,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "IAH"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 353,
+"start": 301,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 301,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/30/2015 13:20:16",
+"duration": 145,
+"distance": 1379,
+"airline": "19977"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 301,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/30/2015 13:20:16",
+"duration": 145,
+"distance": 1379,
+"airline": "19977"
+            }
+          },
+          "relationship": {
+"identity": 354,
+"start": 301,
+"end": 200,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 200,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "IAH"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 211,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "SMF"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1473,
+"start": 1197,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1197,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 12:26:52",
+"duration": 65,
+"distance": 373,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1197,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 12:26:52",
+"duration": 65,
+"distance": 373,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1474,
+"start": 1197,
+"end": 211,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 211,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SMF"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 239,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "FAT"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1423,
+"start": 1157,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1157,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 02:27:11",
+"duration": 38,
+"distance": 209,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1157,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 02:27:11",
+"duration": 38,
+"distance": 209,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1424,
+"start": 1157,
+"end": 239,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 239,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "FAT"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 239,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "FAT"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1428,
+"start": 1161,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1161,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/4/2015 15:13:55",
+"duration": 42,
+"distance": 209,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1161,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/4/2015 15:13:55",
+"duration": 42,
+"distance": 209,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1429,
+"start": 1161,
+"end": 239,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 239,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "FAT"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 239,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "FAT"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1418,
+"start": 1153,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1153,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 09:18:34",
+"duration": 39,
+"distance": 209,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1153,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 09:18:34",
+"duration": 39,
+"distance": 209,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1419,
+"start": 1153,
+"end": 239,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 239,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "FAT"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 211,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "SMF"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1483,
+"start": 1205,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1205,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 13:44:40",
+"duration": 62,
+"distance": 373,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1205,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 13:44:40",
+"duration": 62,
+"distance": 373,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1484,
+"start": 1205,
+"end": 211,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 211,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SMF"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1383,
+"start": 1125,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1125,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 05:43:58",
+"duration": 89,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1125,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 05:43:58",
+"duration": 89,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1384,
+"start": 1125,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 240,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "TUS"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1448,
+"start": 1177,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1177,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 05:51:42",
+"duration": 63,
+"distance": 451,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1177,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 05:51:42",
+"duration": 63,
+"distance": 451,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1449,
+"start": 1177,
+"end": 240,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 240,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "TUS"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 223,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAS"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1048,
+"start": 857,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 857,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/29/2015 07:39:45",
+"duration": 40,
+"distance": 236,
+"airline": "19977"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 857,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/29/2015 07:39:45",
+"duration": 40,
+"distance": 236,
+"airline": "19977"
+            }
+          },
+          "relationship": {
+"identity": 1049,
+"start": 857,
+"end": 223,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 223,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAS"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1433,
+"start": 1165,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1165,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 23:26:29",
+"duration": 86,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1165,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 23:26:29",
+"duration": 86,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1434,
+"start": 1165,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 239,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "FAT"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1413,
+"start": 1149,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1149,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 11:45:25",
+"duration": 37,
+"distance": 209,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1149,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 11:45:25",
+"duration": 37,
+"distance": 209,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1414,
+"start": 1149,
+"end": 239,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 239,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "FAT"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 214,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "BOS"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1033,
+"start": 845,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 845,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/29/2015 15:18:22",
+"duration": 269,
+"distance": 2611,
+"airline": "19977"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 845,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/29/2015 15:18:22",
+"duration": 269,
+"distance": 2611,
+"airline": "19977"
+            }
+          },
+          "relationship": {
+"identity": 1034,
+"start": 845,
+"end": 214,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 214,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "BOS"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1438,
+"start": 1169,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1169,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 17:17:15",
+"duration": 88,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1169,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/1/2015 17:17:15",
+"duration": 88,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1439,
+"start": 1169,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1378,
+"start": 1121,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1121,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/4/2015 15:09:13",
+"duration": 84,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1121,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/4/2015 15:09:13",
+"duration": 84,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1379,
+"start": 1121,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 211,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "SMF"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1468,
+"start": 1193,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1193,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 11:49:17",
+"duration": 61,
+"distance": 373,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1193,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 11:49:17",
+"duration": 61,
+"distance": 373,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1469,
+"start": 1193,
+"end": 211,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 211,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "SMF"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1373,
+"start": 1117,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1117,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 04:43:56",
+"duration": 90,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1117,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 04:43:56",
+"duration": 90,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1374,
+"start": 1117,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 238,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "ABQ"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1388,
+"start": 1129,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1129,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 21:46:43",
+"duration": 86,
+"distance": 677,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1129,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/3/2015 21:46:43",
+"duration": 86,
+"distance": 677,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1389,
+"start": 1129,
+"end": 238,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 238,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ABQ"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 199,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "EWR"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 903,
+"start": 741,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 741,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/29/2015 23:11:39",
+"duration": 267,
+"distance": 2454,
+"airline": "19977"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 741,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/29/2015 23:11:39",
+"duration": 267,
+"distance": 2454,
+"airline": "19977"
+            }
+          },
+          "relationship": {
+"identity": 904,
+"start": 741,
+"end": 199,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 199,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "EWR"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  },
+  {
+    "path": {
+"start": {
+"identity": 203,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 240,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "TUS"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 203,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 1453,
+"start": 1181,
+"end": 203,
+"type": "ORIGIN",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1181,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 09:52:31",
+"duration": 64,
+"distance": 451,
+"airline": "20304"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 1181,
+"labels": [
+              "Flight"
+            ],
+"properties": {
+"date": "11/2/2015 09:52:31",
+"duration": 64,
+"distance": 451,
+"airline": "20304"
+            }
+          },
+          "relationship": {
+"identity": 1454,
+"start": 1181,
+"end": 240,
+"type": "DESTINATION",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 240,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "TUS"
+            }
+          }
+        }
+      ],
+"length": 2.0
+    }
+  }
+]

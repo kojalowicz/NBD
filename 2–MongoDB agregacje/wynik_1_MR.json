@@ -1,0 +1,17 @@
+{ "result" : "mpWeightHeight", "ok" : 1 }
+[
+	{
+		"_id" : "Male",
+		"value" : {
+			"averageWeight" : 70.00976575121166,
+			"averageHeight" : 166.73469507269806
+		}
+	},
+	{
+		"_id" : "Female",
+		"value" : {
+			"averageWeight" : 70.11034916768176,
+			"averageHeight" : 166.81173365814035
+		}
+	}
+]

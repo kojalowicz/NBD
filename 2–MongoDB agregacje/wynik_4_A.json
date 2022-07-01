@@ -1,0 +1,1208 @@
+[
+	{
+		"narodowość" : "Czech Republic",
+		"średnie BMI" : 25.23,
+		"minimalne BMI" : 18.56,
+		"maksymalne BMI" : 33.15
+	},
+	{
+		"narodowość" : "Kenya",
+		"średnie BMI" : 25.84,
+		"minimalne BMI" : 21.96,
+		"maksymalne BMI" : 32.41
+	},
+	{
+		"narodowość" : "Georgia",
+		"średnie BMI" : 24.32,
+		"minimalne BMI" : 19.9,
+		"maksymalne BMI" : 27.69
+	},
+	{
+		"narodowość" : "Denmark",
+		"średnie BMI" : 23.57,
+		"minimalne BMI" : 21.08,
+		"maksymalne BMI" : 27.82
+	},
+	{
+		"narodowość" : "French Polynesia",
+		"średnie BMI" : 25.35,
+		"minimalne BMI" : 20.29,
+		"maksymalne BMI" : 28.53
+	},
+	{
+		"narodowość" : "Nepal",
+		"średnie BMI" : 26.43,
+		"minimalne BMI" : 19.74,
+		"maksymalne BMI" : 31.07
+	},
+	{
+		"narodowość" : "Australia",
+		"średnie BMI" : 25.19,
+		"minimalne BMI" : 20.65,
+		"maksymalne BMI" : 29.82
+	},
+	{
+		"narodowość" : "Democratic Republic of the Congo",
+		"średnie BMI" : 26.53,
+		"minimalne BMI" : 18.27,
+		"maksymalne BMI" : 33.51
+	},
+	{
+		"narodowość" : "Kazakhstan",
+		"średnie BMI" : 25.87,
+		"minimalne BMI" : 16.8,
+		"maksymalne BMI" : 36.89
+	},
+	{
+		"narodowość" : "Niger",
+		"średnie BMI" : 26.38,
+		"minimalne BMI" : 20.07,
+		"maksymalne BMI" : 30.22
+	},
+	{
+		"narodowość" : "Nauru",
+		"średnie BMI" : 22.91,
+		"minimalne BMI" : 22.91,
+		"maksymalne BMI" : 22.91
+	},
+	{
+		"narodowość" : "Burkina Faso",
+		"średnie BMI" : 27.58,
+		"minimalne BMI" : 19.87,
+		"maksymalne BMI" : 39.84
+	},
+	{
+		"narodowość" : "Cameroon",
+		"średnie BMI" : 24.63,
+		"minimalne BMI" : 19.68,
+		"maksymalne BMI" : 33.17
+	},
+	{
+		"narodowość" : "Cyprus",
+		"średnie BMI" : 25.19,
+		"minimalne BMI" : 22.19,
+		"maksymalne BMI" : 29.82
+	},
+	{
+		"narodowość" : "Mali",
+		"średnie BMI" : 24.91,
+		"minimalne BMI" : 19.24,
+		"maksymalne BMI" : 31.67
+	},
+	{
+		"narodowość" : "Monaco",
+		"średnie BMI" : 28.92,
+		"minimalne BMI" : 28.92,
+		"maksymalne BMI" : 28.92
+	},
+	{
+		"narodowość" : "Kyrgyzstan",
+		"średnie BMI" : 23.79,
+		"minimalne BMI" : 16.84,
+		"maksymalne BMI" : 34.05
+	},
+	{
+		"narodowość" : "Wallis and Futuna",
+		"średnie BMI" : 26.38,
+		"minimalne BMI" : 24.33,
+		"maksymalne BMI" : 28.43
+	},
+	{
+		"narodowość" : "Marshall Islands",
+		"średnie BMI" : 24.43,
+		"minimalne BMI" : 22.4,
+		"maksymalne BMI" : 26.89
+	},
+	{
+		"narodowość" : "Paraguay",
+		"średnie BMI" : 25.11,
+		"minimalne BMI" : 21.19,
+		"maksymalne BMI" : 32.97
+	},
+	{
+		"narodowość" : "Lesotho",
+		"średnie BMI" : 25.35,
+		"minimalne BMI" : 19.8,
+		"maksymalne BMI" : 30.16
+	},
+	{
+		"narodowość" : "Italy",
+		"średnie BMI" : 25.22,
+		"minimalne BMI" : 18.62,
+		"maksymalne BMI" : 31.28
+	},
+	{
+		"narodowość" : "Bahamas",
+		"średnie BMI" : 24.99,
+		"minimalne BMI" : 22.24,
+		"maksymalne BMI" : 26.59
+	},
+	{
+		"narodowość" : "Armenia",
+		"średnie BMI" : 24.94,
+		"minimalne BMI" : 19.17,
+		"maksymalne BMI" : 31.66
+	},
+	{
+		"narodowość" : "Guatemala",
+		"średnie BMI" : 25.74,
+		"minimalne BMI" : 19.61,
+		"maksymalne BMI" : 32.13
+	},
+	{
+		"narodowość" : "Guinea",
+		"średnie BMI" : 27.91,
+		"minimalne BMI" : 20.46,
+		"maksymalne BMI" : 34.46
+	},
+	{
+		"narodowość" : "Northern Mariana Islands",
+		"średnie BMI" : 25.91,
+		"minimalne BMI" : 25.91,
+		"maksymalne BMI" : 25.91
+	},
+	{
+		"narodowość" : "Dominican Republic",
+		"średnie BMI" : 24.15,
+		"minimalne BMI" : 18.01,
+		"maksymalne BMI" : 30.32
+	},
+	{
+		"narodowość" : "Samoa",
+		"średnie BMI" : 20.54,
+		"minimalne BMI" : 20.54,
+		"maksymalne BMI" : 20.54
+	},
+	{
+		"narodowość" : "Angola",
+		"średnie BMI" : 24.17,
+		"minimalne BMI" : 18.36,
+		"maksymalne BMI" : 31.67
+	},
+	{
+		"narodowość" : "Serbia",
+		"średnie BMI" : 25.78,
+		"minimalne BMI" : 19.73,
+		"maksymalne BMI" : 43.54
+	},
+	{
+		"narodowość" : "Belgium",
+		"średnie BMI" : 26.14,
+		"minimalne BMI" : 20.04,
+		"maksymalne BMI" : 28.99
+	},
+	{
+		"narodowość" : "Aland Islands",
+		"średnie BMI" : 28.16,
+		"minimalne BMI" : 22.42,
+		"maksymalne BMI" : 33.92
+	},
+	{
+		"narodowość" : "Gabon",
+		"średnie BMI" : 25.65,
+		"minimalne BMI" : 22.26,
+		"maksymalne BMI" : 29.04
+	},
+	{
+		"narodowość" : "Morocco",
+		"średnie BMI" : 25.87,
+		"minimalne BMI" : 20.18,
+		"maksymalne BMI" : 32.9
+	},
+	{
+		"narodowość" : "Zambia",
+		"średnie BMI" : 25.85,
+		"minimalne BMI" : 20.33,
+		"maksymalne BMI" : 31.44
+	},
+	{
+		"narodowość" : "Rwanda",
+		"średnie BMI" : 25.96,
+		"minimalne BMI" : 22.83,
+		"maksymalne BMI" : 27.6
+	},
+	{
+		"narodowość" : "Taiwan",
+		"średnie BMI" : 26.61,
+		"minimalne BMI" : 20.35,
+		"maksymalne BMI" : 31.17
+	},
+	{
+		"narodowość" : "Spain",
+		"średnie BMI" : 26.17,
+		"minimalne BMI" : 21.71,
+		"maksymalne BMI" : 34.93
+	},
+	{
+		"narodowość" : "Austria",
+		"średnie BMI" : 27.93,
+		"minimalne BMI" : 23.01,
+		"maksymalne BMI" : 37.25
+	},
+	{
+		"narodowość" : "Ethiopia",
+		"średnie BMI" : 25.47,
+		"minimalne BMI" : 20.55,
+		"maksymalne BMI" : 32.85
+	},
+	{
+		"narodowość" : "Chad",
+		"średnie BMI" : 25.9,
+		"minimalne BMI" : 19.37,
+		"maksymalne BMI" : 32.14
+	},
+	{
+		"narodowość" : "Argentina",
+		"średnie BMI" : 25.67,
+		"minimalne BMI" : 17.58,
+		"maksymalne BMI" : 34.13
+	},
+	{
+		"narodowość" : "Colombia",
+		"średnie BMI" : 25.77,
+		"minimalne BMI" : 18.54,
+		"maksymalne BMI" : 35.4
+	},
+	{
+		"narodowość" : "Saudi Arabia",
+		"średnie BMI" : 25.67,
+		"minimalne BMI" : 19.97,
+		"maksymalne BMI" : 32.09
+	},
+	{
+		"narodowość" : "Cape Verde",
+		"średnie BMI" : 25.33,
+		"minimalne BMI" : 19.2,
+		"maksymalne BMI" : 35.04
+	},
+	{
+		"narodowość" : "Bulgaria",
+		"średnie BMI" : 24.58,
+		"minimalne BMI" : 18.41,
+		"maksymalne BMI" : 32.59
+	},
+	{
+		"narodowość" : "Pakistan",
+		"średnie BMI" : 25.02,
+		"minimalne BMI" : 17.5,
+		"maksymalne BMI" : 35.54
+	},
+	{
+		"narodowość" : "Turkey",
+		"średnie BMI" : 22.99,
+		"minimalne BMI" : 22.71,
+		"maksymalne BMI" : 23.21
+	},
+	{
+		"narodowość" : "Senegal",
+		"średnie BMI" : 23.41,
+		"minimalne BMI" : 21.1,
+		"maksymalne BMI" : 26.59
+	},
+	{
+		"narodowość" : "Lebanon",
+		"średnie BMI" : 27.5,
+		"minimalne BMI" : 22.69,
+		"maksymalne BMI" : 32.44
+	},
+	{
+		"narodowość" : "Malaysia",
+		"średnie BMI" : 25.61,
+		"minimalne BMI" : 18.54,
+		"maksymalne BMI" : 36.53
+	},
+	{
+		"narodowość" : "Saint Lucia",
+		"średnie BMI" : 23,
+		"minimalne BMI" : 20.26,
+		"maksymalne BMI" : 27.57
+	},
+	{
+		"narodowość" : "Kiribati",
+		"średnie BMI" : 23.1,
+		"minimalne BMI" : 23.1,
+		"maksymalne BMI" : 23.1
+	},
+	{
+		"narodowość" : "Oman",
+		"średnie BMI" : 25.68,
+		"minimalne BMI" : 23.59,
+		"maksymalne BMI" : 27.08
+	},
+	{
+		"narodowość" : "Slovenia",
+		"średnie BMI" : 25.2,
+		"minimalne BMI" : 17.37,
+		"maksymalne BMI" : 32.66
+	},
+	{
+		"narodowość" : "Montenegro",
+		"średnie BMI" : 24,
+		"minimalne BMI" : 20.73,
+		"maksymalne BMI" : 29.52
+	},
+	{
+		"narodowość" : "Belize",
+		"średnie BMI" : 23.22,
+		"minimalne BMI" : 18.42,
+		"maksymalne BMI" : 26.22
+	},
+	{
+		"narodowość" : "Western Sahara",
+		"średnie BMI" : 22.75,
+		"minimalne BMI" : 22.75,
+		"maksymalne BMI" : 22.75
+	},
+	{
+		"narodowość" : "United Arab Emirates",
+		"średnie BMI" : 26.57,
+		"minimalne BMI" : 23.39,
+		"maksymalne BMI" : 29.75
+	},
+	{
+		"narodowość" : "New Zealand",
+		"średnie BMI" : 25.35,
+		"minimalne BMI" : 20.01,
+		"maksymalne BMI" : 33.7
+	},
+	{
+		"narodowość" : "Ecuador",
+		"średnie BMI" : 25.66,
+		"minimalne BMI" : 19.83,
+		"maksymalne BMI" : 31.54
+	},
+	{
+		"narodowość" : "Liberia",
+		"średnie BMI" : 25.9,
+		"minimalne BMI" : 22.64,
+		"maksymalne BMI" : 29.63
+	},
+	{
+		"narodowość" : "Slovakia",
+		"średnie BMI" : 21.33,
+		"minimalne BMI" : 21.33,
+		"maksymalne BMI" : 21.33
+	},
+	{
+		"narodowość" : "Switzerland",
+		"średnie BMI" : 25.7,
+		"minimalne BMI" : 20.19,
+		"maksymalne BMI" : 31.15
+	},
+	{
+		"narodowość" : "Syria",
+		"średnie BMI" : 25.37,
+		"minimalne BMI" : 18.66,
+		"maksymalne BMI" : 36.4
+	},
+	{
+		"narodowość" : "Bolivia",
+		"średnie BMI" : 25.29,
+		"minimalne BMI" : 20.46,
+		"maksymalne BMI" : 32.04
+	},
+	{
+		"narodowość" : "Luxembourg",
+		"średnie BMI" : 26.31,
+		"minimalne BMI" : 19.26,
+		"maksymalne BMI" : 33.21
+	},
+	{
+		"narodowość" : "Latvia",
+		"średnie BMI" : 26.63,
+		"minimalne BMI" : 18.43,
+		"maksymalne BMI" : 32.88
+	},
+	{
+		"narodowość" : "Dominica",
+		"średnie BMI" : 26.42,
+		"minimalne BMI" : 26.42,
+		"maksymalne BMI" : 26.42
+	},
+	{
+		"narodowość" : "Vanuatu",
+		"średnie BMI" : 24.69,
+		"minimalne BMI" : 23.04,
+		"maksymalne BMI" : 27.2
+	},
+	{
+		"narodowość" : "United Kingdom",
+		"średnie BMI" : 23.78,
+		"minimalne BMI" : 19.42,
+		"maksymalne BMI" : 31.9
+	},
+	{
+		"narodowość" : "Central African Republic",
+		"średnie BMI" : 23.91,
+		"minimalne BMI" : 19.61,
+		"maksymalne BMI" : 28.95
+	},
+	{
+		"narodowość" : "Madagascar",
+		"średnie BMI" : 24.78,
+		"minimalne BMI" : 17.55,
+		"maksymalne BMI" : 30.18
+	},
+	{
+		"narodowość" : "Israel",
+		"średnie BMI" : 25.45,
+		"minimalne BMI" : 21.29,
+		"maksymalne BMI" : 30.14
+	},
+	{
+		"narodowość" : "American Samoa",
+		"średnie BMI" : 22.39,
+		"minimalne BMI" : 22.39,
+		"maksymalne BMI" : 22.39
+	},
+	{
+		"narodowość" : "Jordan",
+		"średnie BMI" : 26.64,
+		"minimalne BMI" : 21.21,
+		"maksymalne BMI" : 32.35
+	},
+	{
+		"narodowość" : "Iraq",
+		"średnie BMI" : 24.09,
+		"minimalne BMI" : 17.81,
+		"maksymalne BMI" : 33.23
+	},
+	{
+		"narodowość" : "Portugal",
+		"średnie BMI" : 25.47,
+		"minimalne BMI" : 17.25,
+		"maksymalne BMI" : 39.66
+	},
+	{
+		"narodowość" : "Seychelles",
+		"średnie BMI" : 25.71,
+		"minimalne BMI" : 25.71,
+		"maksymalne BMI" : 25.71
+	},
+	{
+		"narodowość" : "Chile",
+		"średnie BMI" : 24.86,
+		"minimalne BMI" : 16.95,
+		"maksymalne BMI" : 29.79
+	},
+	{
+		"narodowość" : "Togo",
+		"średnie BMI" : 23.26,
+		"minimalne BMI" : 21.48,
+		"maksymalne BMI" : 24.55
+	},
+	{
+		"narodowość" : "Ukraine",
+		"średnie BMI" : 25.2,
+		"minimalne BMI" : 17.02,
+		"maksymalne BMI" : 36.84
+	},
+	{
+		"narodowość" : "Norway",
+		"średnie BMI" : 27.01,
+		"minimalne BMI" : 19.6,
+		"maksymalne BMI" : 35.16
+	},
+	{
+		"narodowość" : "Sierra Leone",
+		"średnie BMI" : 25.11,
+		"minimalne BMI" : 19.49,
+		"maksymalne BMI" : 33.44
+	},
+	{
+		"narodowość" : "Guadeloupe",
+		"średnie BMI" : 22.06,
+		"minimalne BMI" : 22.06,
+		"maksymalne BMI" : 22.06
+	},
+	{
+		"narodowość" : "Reunion",
+		"średnie BMI" : 26.42,
+		"minimalne BMI" : 18.72,
+		"maksymalne BMI" : 39.16
+	},
+	{
+		"narodowość" : "Barbados",
+		"średnie BMI" : 21.34,
+		"minimalne BMI" : 21.34,
+		"maksymalne BMI" : 21.34
+	},
+	{
+		"narodowość" : "Kosovo",
+		"średnie BMI" : 24.13,
+		"minimalne BMI" : 19.25,
+		"maksymalne BMI" : 29.62
+	},
+	{
+		"narodowość" : "Bosnia and Herzegovina",
+		"średnie BMI" : 25.41,
+		"minimalne BMI" : 16.93,
+		"maksymalne BMI" : 35.97
+	},
+	{
+		"narodowość" : "Malta",
+		"średnie BMI" : 26.16,
+		"minimalne BMI" : 22.12,
+		"maksymalne BMI" : 36.01
+	},
+	{
+		"narodowość" : "Panama",
+		"średnie BMI" : 24.99,
+		"minimalne BMI" : 20.49,
+		"maksymalne BMI" : 33.2
+	},
+	{
+		"narodowość" : "Costa Rica",
+		"średnie BMI" : 24.65,
+		"minimalne BMI" : 20.49,
+		"maksymalne BMI" : 28.89
+	},
+	{
+		"narodowość" : "Japan",
+		"średnie BMI" : 25.28,
+		"minimalne BMI" : 18.9,
+		"maksymalne BMI" : 37.2
+	},
+	{
+		"narodowość" : "Bangladesh",
+		"średnie BMI" : 26.69,
+		"minimalne BMI" : 19.8,
+		"maksymalne BMI" : 34.06
+	},
+	{
+		"narodowość" : "Zimbabwe",
+		"średnie BMI" : 26.97,
+		"minimalne BMI" : 22.6,
+		"maksymalne BMI" : 35.12
+	},
+	{
+		"narodowość" : "Sri Lanka",
+		"średnie BMI" : 24.57,
+		"minimalne BMI" : 20.74,
+		"maksymalne BMI" : 28.6
+	},
+	{
+		"narodowość" : "Lithuania",
+		"średnie BMI" : 24.41,
+		"minimalne BMI" : 19.68,
+		"maksymalne BMI" : 30.88
+	},
+	{
+		"narodowość" : "Sudan",
+		"średnie BMI" : 24.95,
+		"minimalne BMI" : 22.77,
+		"maksymalne BMI" : 26.38
+	},
+	{
+		"narodowość" : "East Timor",
+		"średnie BMI" : 25.82,
+		"minimalne BMI" : 21.52,
+		"maksymalne BMI" : 32.72
+	},
+	{
+		"narodowość" : "Guyana",
+		"średnie BMI" : 26.15,
+		"minimalne BMI" : 24.09,
+		"maksymalne BMI" : 28.21
+	},
+	{
+		"narodowość" : "Ghana",
+		"średnie BMI" : 25.84,
+		"minimalne BMI" : 22.3,
+		"maksymalne BMI" : 32.5
+	},
+	{
+		"narodowość" : "Uganda",
+		"średnie BMI" : 25.79,
+		"minimalne BMI" : 20.58,
+		"maksymalne BMI" : 33.24
+	},
+	{
+		"narodowość" : "Tunisia",
+		"średnie BMI" : 24.19,
+		"minimalne BMI" : 18.6,
+		"maksymalne BMI" : 30.37
+	},
+	{
+		"narodowość" : "Swaziland",
+		"średnie BMI" : 20.9,
+		"minimalne BMI" : 20.9,
+		"maksymalne BMI" : 20.9
+	},
+	{
+		"narodowość" : "Saint Kitts and Nevis",
+		"średnie BMI" : 27.8,
+		"minimalne BMI" : 25.18,
+		"maksymalne BMI" : 30.06
+	},
+	{
+		"narodowość" : "Mozambique",
+		"średnie BMI" : 25.56,
+		"minimalne BMI" : 22.8,
+		"maksymalne BMI" : 29.44
+	},
+	{
+		"narodowość" : "South Sudan",
+		"średnie BMI" : 25.95,
+		"minimalne BMI" : 25.95,
+		"maksymalne BMI" : 25.95
+	},
+	{
+		"narodowość" : "Palestinian Territory",
+		"średnie BMI" : 25.51,
+		"minimalne BMI" : 19.17,
+		"maksymalne BMI" : 35.54
+	},
+	{
+		"narodowość" : "Bhutan",
+		"średnie BMI" : 24.05,
+		"minimalne BMI" : 19.41,
+		"maksymalne BMI" : 31.35
+	},
+	{
+		"narodowość" : "Azerbaijan",
+		"średnie BMI" : 25.95,
+		"minimalne BMI" : 18.77,
+		"maksymalne BMI" : 36.93
+	},
+	{
+		"narodowość" : "Trinidad and Tobago",
+		"średnie BMI" : 27.59,
+		"minimalne BMI" : 22.71,
+		"maksymalne BMI" : 31.51
+	},
+	{
+		"narodowość" : "Comoros",
+		"średnie BMI" : 25.43,
+		"minimalne BMI" : 19.73,
+		"maksymalne BMI" : 33.86
+	},
+	{
+		"narodowość" : "Malawi",
+		"średnie BMI" : 27.29,
+		"minimalne BMI" : 23.29,
+		"maksymalne BMI" : 30.49
+	},
+	{
+		"narodowość" : "French Guiana",
+		"średnie BMI" : 25.59,
+		"minimalne BMI" : 22.27,
+		"maksymalne BMI" : 28.91
+	},
+	{
+		"narodowość" : "Palau",
+		"średnie BMI" : 29.61,
+		"minimalne BMI" : 29.23,
+		"maksymalne BMI" : 29.99
+	},
+	{
+		"narodowość" : "Tuvalu",
+		"średnie BMI" : 22.6,
+		"minimalne BMI" : 22.6,
+		"maksymalne BMI" : 22.6
+	},
+	{
+		"narodowość" : "Yemen",
+		"średnie BMI" : 25.52,
+		"minimalne BMI" : 20.91,
+		"maksymalne BMI" : 34.85
+	},
+	{
+		"narodowość" : "Suriname",
+		"średnie BMI" : 30.38,
+		"minimalne BMI" : 30.38,
+		"maksymalne BMI" : 30.38
+	},
+	{
+		"narodowość" : "Tajikistan",
+		"średnie BMI" : 24.96,
+		"minimalne BMI" : 19.99,
+		"maksymalne BMI" : 31.13
+	},
+	{
+		"narodowość" : "Papua New Guinea",
+		"średnie BMI" : 24.21,
+		"minimalne BMI" : 19.85,
+		"maksymalne BMI" : 26.9
+	},
+	{
+		"narodowość" : "Sweden",
+		"średnie BMI" : 25.75,
+		"minimalne BMI" : 18.1,
+		"maksymalne BMI" : 40.08
+	},
+	{
+		"narodowość" : "France",
+		"średnie BMI" : 25.21,
+		"minimalne BMI" : 17.68,
+		"maksymalne BMI" : 40.68
+	},
+	{
+		"narodowość" : "Gambia",
+		"średnie BMI" : 23.77,
+		"minimalne BMI" : 17.84,
+		"maksymalne BMI" : 29.04
+	},
+	{
+		"narodowość" : "Iran",
+		"średnie BMI" : 25.85,
+		"minimalne BMI" : 18.23,
+		"maksymalne BMI" : 37.98
+	},
+	{
+		"narodowość" : "Guam",
+		"średnie BMI" : 22.45,
+		"minimalne BMI" : 20.67,
+		"maksymalne BMI" : 24.01
+	},
+	{
+		"narodowość" : "Equatorial Guinea",
+		"średnie BMI" : 24.78,
+		"minimalne BMI" : 24.78,
+		"maksymalne BMI" : 24.78
+	},
+	{
+		"narodowość" : "Fiji",
+		"średnie BMI" : 21.2,
+		"minimalne BMI" : 21.2,
+		"maksymalne BMI" : 21.2
+	},
+	{
+		"narodowość" : "Hong Kong",
+		"średnie BMI" : 27.28,
+		"minimalne BMI" : 27.28,
+		"maksymalne BMI" : 27.28
+	},
+	{
+		"narodowość" : "South Korea",
+		"średnie BMI" : 24.68,
+		"minimalne BMI" : 19.48,
+		"maksymalne BMI" : 31.35
+	},
+	{
+		"narodowość" : "Ivory Coast",
+		"średnie BMI" : 26.73,
+		"minimalne BMI" : 20.49,
+		"maksymalne BMI" : 35.26
+	},
+	{
+		"narodowość" : "Brazil",
+		"średnie BMI" : 25.61,
+		"minimalne BMI" : 17.45,
+		"maksymalne BMI" : 40.62
+	},
+	{
+		"narodowość" : "Vietnam",
+		"średnie BMI" : 25.04,
+		"minimalne BMI" : 16.58,
+		"maksymalne BMI" : 32.97
+	},
+	{
+		"narodowość" : "Iceland",
+		"średnie BMI" : 25.59,
+		"minimalne BMI" : 22.67,
+		"maksymalne BMI" : 30.14
+	},
+	{
+		"narodowość" : "Andorra",
+		"średnie BMI" : 28.17,
+		"minimalne BMI" : 25.69,
+		"maksymalne BMI" : 30.65
+	},
+	{
+		"narodowość" : "Turkmenistan",
+		"średnie BMI" : 26.07,
+		"minimalne BMI" : 21.53,
+		"maksymalne BMI" : 30.26
+	},
+	{
+		"narodowość" : "Nigeria",
+		"średnie BMI" : 24.8,
+		"minimalne BMI" : 16.86,
+		"maksymalne BMI" : 36.16
+	},
+	{
+		"narodowość" : "Belarus",
+		"średnie BMI" : 25.46,
+		"minimalne BMI" : 17.86,
+		"maksymalne BMI" : 33.93
+	},
+	{
+		"narodowość" : "Sint Maarten",
+		"średnie BMI" : 23.16,
+		"minimalne BMI" : 22.21,
+		"maksymalne BMI" : 24.1
+	},
+	{
+		"narodowość" : "Benin",
+		"średnie BMI" : 25.77,
+		"minimalne BMI" : 21.32,
+		"maksymalne BMI" : 30.29
+	},
+	{
+		"narodowość" : "Republic of the Congo",
+		"średnie BMI" : 25.55,
+		"minimalne BMI" : 17.66,
+		"maksymalne BMI" : 30.4
+	},
+	{
+		"narodowość" : "Tonga",
+		"średnie BMI" : 23.82,
+		"minimalne BMI" : 23.82,
+		"maksymalne BMI" : 23.82
+	},
+	{
+		"narodowość" : "Mauritania",
+		"średnie BMI" : 21.56,
+		"minimalne BMI" : 20.42,
+		"maksymalne BMI" : 22.69
+	},
+	{
+		"narodowość" : "Algeria",
+		"średnie BMI" : 28.59,
+		"minimalne BMI" : 28.59,
+		"maksymalne BMI" : 28.59
+	},
+	{
+		"narodowość" : "Ireland",
+		"średnie BMI" : 25.94,
+		"minimalne BMI" : 17.75,
+		"maksymalne BMI" : 33.51
+	},
+	{
+		"narodowość" : "Myanmar",
+		"średnie BMI" : 25.96,
+		"minimalne BMI" : 20.99,
+		"maksymalne BMI" : 31.44
+	},
+	{
+		"narodowość" : "Greece",
+		"średnie BMI" : 25.75,
+		"minimalne BMI" : 19.12,
+		"maksymalne BMI" : 41.52
+	},
+	{
+		"narodowość" : "Thailand",
+		"średnie BMI" : 25.68,
+		"minimalne BMI" : 18.18,
+		"maksymalne BMI" : 35.59
+	},
+	{
+		"narodowość" : "Cuba",
+		"średnie BMI" : 26.37,
+		"minimalne BMI" : 18.48,
+		"maksymalne BMI" : 35.42
+	},
+	{
+		"narodowość" : "Cambodia",
+		"średnie BMI" : 27.38,
+		"minimalne BMI" : 21.87,
+		"maksymalne BMI" : 33.32
+	},
+	{
+		"narodowość" : "Moldova",
+		"średnie BMI" : 25.57,
+		"minimalne BMI" : 19.68,
+		"maksymalne BMI" : 32.56
+	},
+	{
+		"narodowość" : "Macao",
+		"średnie BMI" : 23.98,
+		"minimalne BMI" : 23.98,
+		"maksymalne BMI" : 23.98
+	},
+	{
+		"narodowość" : "Venezuela",
+		"średnie BMI" : 24.91,
+		"minimalne BMI" : 19.13,
+		"maksymalne BMI" : 31.13
+	},
+	{
+		"narodowość" : "Russia",
+		"średnie BMI" : 25.39,
+		"minimalne BMI" : 17.63,
+		"maksymalne BMI" : 39.88
+	},
+	{
+		"narodowość" : "Croatia",
+		"średnie BMI" : 24.85,
+		"minimalne BMI" : 18.79,
+		"maksymalne BMI" : 38.54
+	},
+	{
+		"narodowość" : "Eritrea",
+		"średnie BMI" : 26.18,
+		"minimalne BMI" : 24.5,
+		"maksymalne BMI" : 28.7
+	},
+	{
+		"narodowość" : "El Salvador",
+		"średnie BMI" : 25.34,
+		"minimalne BMI" : 21.92,
+		"maksymalne BMI" : 33.56
+	},
+	{
+		"narodowość" : "Hungary",
+		"średnie BMI" : 26.31,
+		"minimalne BMI" : 22.35,
+		"maksymalne BMI" : 32.69
+	},
+	{
+		"narodowość" : "Estonia",
+		"średnie BMI" : 25.54,
+		"minimalne BMI" : 18.56,
+		"maksymalne BMI" : 28.68
+	},
+	{
+		"narodowość" : "North Korea",
+		"średnie BMI" : 26.2,
+		"minimalne BMI" : 20.92,
+		"maksymalne BMI" : 30.61
+	},
+	{
+		"narodowość" : "Burundi",
+		"średnie BMI" : 25.64,
+		"minimalne BMI" : 23.41,
+		"maksymalne BMI" : 28.5
+	},
+	{
+		"narodowość" : "Peru",
+		"średnie BMI" : 25.27,
+		"minimalne BMI" : 17.8,
+		"maksymalne BMI" : 36.36
+	},
+	{
+		"narodowość" : "Micronesia",
+		"średnie BMI" : 23.3,
+		"minimalne BMI" : 20.48,
+		"maksymalne BMI" : 25.24
+	},
+	{
+		"narodowość" : "Qatar",
+		"średnie BMI" : 25.75,
+		"minimalne BMI" : 21.9,
+		"maksymalne BMI" : 29.59
+	},
+	{
+		"narodowość" : "Botswana",
+		"średnie BMI" : 24.65,
+		"minimalne BMI" : 21.66,
+		"maksymalne BMI" : 27.18
+	},
+	{
+		"narodowość" : "Mexico",
+		"średnie BMI" : 25.47,
+		"minimalne BMI" : 18.91,
+		"maksymalne BMI" : 36.27
+	},
+	{
+		"narodowość" : "Laos",
+		"średnie BMI" : 24.7,
+		"minimalne BMI" : 20.41,
+		"maksymalne BMI" : 28.47
+	},
+	{
+		"narodowość" : "Indonesia",
+		"średnie BMI" : 25.49,
+		"minimalne BMI" : 14.75,
+		"maksymalne BMI" : 45.22
+	},
+	{
+		"narodowość" : "Macedonia",
+		"średnie BMI" : 25.16,
+		"minimalne BMI" : 20.49,
+		"maksymalne BMI" : 32.52
+	},
+	{
+		"narodowość" : "China",
+		"średnie BMI" : 25.58,
+		"minimalne BMI" : 15.45,
+		"maksymalne BMI" : 42.36
+	},
+	{
+		"narodowość" : "South Africa",
+		"średnie BMI" : 25.86,
+		"minimalne BMI" : 17.33,
+		"maksymalne BMI" : 40.54
+	},
+	{
+		"narodowość" : "Philippines",
+		"średnie BMI" : 25.2,
+		"minimalne BMI" : 17.74,
+		"maksymalne BMI" : 40.14
+	},
+	{
+		"narodowość" : "Tanzania",
+		"średnie BMI" : 26.25,
+		"minimalne BMI" : 20.05,
+		"maksymalne BMI" : 34.99
+	},
+	{
+		"narodowość" : "Mongolia",
+		"średnie BMI" : 24.02,
+		"minimalne BMI" : 19.12,
+		"maksymalne BMI" : 31.47
+	},
+	{
+		"narodowość" : "Namibia",
+		"średnie BMI" : 26.73,
+		"minimalne BMI" : 22.33,
+		"maksymalne BMI" : 32.28
+	},
+	{
+		"narodowość" : "Netherlands",
+		"średnie BMI" : 26.02,
+		"minimalne BMI" : 19.37,
+		"maksymalne BMI" : 34.91
+	},
+	{
+		"narodowość" : "Nicaragua",
+		"średnie BMI" : 24.17,
+		"minimalne BMI" : 19.77,
+		"maksymalne BMI" : 30.03
+	},
+	{
+		"narodowość" : "Honduras",
+		"średnie BMI" : 25.48,
+		"minimalne BMI" : 18.48,
+		"maksymalne BMI" : 35.22
+	},
+	{
+		"narodowość" : "Jamaica",
+		"średnie BMI" : 24.93,
+		"minimalne BMI" : 22.27,
+		"maksymalne BMI" : 28.97
+	},
+	{
+		"narodowość" : "Greenland",
+		"średnie BMI" : 25.87,
+		"minimalne BMI" : 25.87,
+		"maksymalne BMI" : 25.87
+	},
+	{
+		"narodowość" : "Maldives",
+		"średnie BMI" : 25.38,
+		"minimalne BMI" : 23.65,
+		"maksymalne BMI" : 28.25
+	},
+	{
+		"narodowość" : "Albania",
+		"średnie BMI" : 24.7,
+		"minimalne BMI" : 18.99,
+		"maksymalne BMI" : 31.98
+	},
+	{
+		"narodowość" : "Canada",
+		"średnie BMI" : 25.52,
+		"minimalne BMI" : 18.33,
+		"maksymalne BMI" : 33.61
+	},
+	{
+		"narodowość" : "United States",
+		"średnie BMI" : 25.74,
+		"minimalne BMI" : 18.8,
+		"maksymalne BMI" : 36.69
+	},
+	{
+		"narodowość" : "Uzbekistan",
+		"średnie BMI" : 25.89,
+		"minimalne BMI" : 19.78,
+		"maksymalne BMI" : 32.3
+	},
+	{
+		"narodowość" : "Libya",
+		"średnie BMI" : 27.27,
+		"minimalne BMI" : 21.42,
+		"maksymalne BMI" : 35.14
+	},
+	{
+		"narodowość" : "Germany",
+		"średnie BMI" : 24.62,
+		"minimalne BMI" : 19.81,
+		"maksymalne BMI" : 32.56
+	},
+	{
+		"narodowość" : "Mauritius",
+		"średnie BMI" : 25.49,
+		"minimalne BMI" : 19.22,
+		"maksymalne BMI" : 38.86
+	},
+	{
+		"narodowość" : "Kuwait",
+		"średnie BMI" : 25.23,
+		"minimalne BMI" : 22.43,
+		"maksymalne BMI" : 27.18
+	},
+	{
+		"narodowość" : "Martinique",
+		"średnie BMI" : 24.02,
+		"minimalne BMI" : 24.02,
+		"maksymalne BMI" : 24.02
+	},
+	{
+		"narodowość" : "Guinea-Bissau",
+		"średnie BMI" : 24.42,
+		"minimalne BMI" : 23.28,
+		"maksymalne BMI" : 26.54
+	},
+	{
+		"narodowość" : "New Caledonia",
+		"średnie BMI" : 25.5,
+		"minimalne BMI" : 24.07,
+		"maksymalne BMI" : 26.93
+	},
+	{
+		"narodowość" : "Poland",
+		"średnie BMI" : 25.27,
+		"minimalne BMI" : 18,
+		"maksymalne BMI" : 36.71
+	},
+	{
+		"narodowość" : "Egypt",
+		"średnie BMI" : 24.27,
+		"minimalne BMI" : 17.65,
+		"maksymalne BMI" : 32.03
+	},
+	{
+		"narodowość" : "Puerto Rico",
+		"średnie BMI" : 25.26,
+		"minimalne BMI" : 22.62,
+		"maksymalne BMI" : 27.28
+	},
+	{
+		"narodowość" : "Afghanistan",
+		"średnie BMI" : 25.04,
+		"minimalne BMI" : 18.43,
+		"maksymalne BMI" : 31.68
+	},
+	{
+		"narodowość" : "Finland",
+		"średnie BMI" : 25.62,
+		"minimalne BMI" : 18.31,
+		"maksymalne BMI" : 36.88
+	},
+	{
+		"narodowość" : "Uruguay",
+		"średnie BMI" : 25.32,
+		"minimalne BMI" : 20.36,
+		"maksymalne BMI" : 34.36
+	},
+	{
+		"narodowość" : "Haiti",
+		"średnie BMI" : 26.05,
+		"minimalne BMI" : 21.95,
+		"maksymalne BMI" : 34.7
+	},
+	{
+		"narodowość" : "Somalia",
+		"średnie BMI" : 29.95,
+		"minimalne BMI" : 29.95,
+		"maksymalne BMI" : 29.95
+	},
+	{
+		"narodowość" : "Brunei",
+		"średnie BMI" : 25.02,
+		"minimalne BMI" : 25.02,
+		"maksymalne BMI" : 25.02
+	}
+]

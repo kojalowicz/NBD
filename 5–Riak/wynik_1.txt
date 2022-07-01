@@ -1,0 +1,202 @@
+$ curl -i -v -XPUT -d '{"var1": "string val1", "var2": 123, "var3": true, "var4":{"imie":"ola", "nazwisko": "Piekna"}}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-1?returnbody=true
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s15295/keys/zad1-1?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 95
+>
+} [95 bytes data]
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OaN7JwKAumMGUyJjHysAjdeo2XxYA
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Link: </buckets/s15295>; rel="up"
+< Last-Modified: Tue, 15 Jun 2022 15:43:08 GMT
+< ETag: "Ay6UV8a5iNUjlpteSzgCT"
+< Date: Tue, 15 Jun 2022 15:43:08 GMT
+< Content-Type: application/json
+< Content-Length: 95
+<
+{ [95 bytes data]
+100   190  100    95  100    95   2199   2199 --:--:-- --:--:-- --:--:--  4523HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OaN7JwKAumMGUyJjHysAjdeo2XxYA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15295>; rel="up"
+Last-Modified: Tue, 15 Jun 2022 15:43:08 GMT
+ETag: "Ay6UV8a5iNUjlpteSzgCT"
+Date: Tue, 15 Jun 2022 15:43:08 GMT
+Content-Type: application/json
+Content-Length: 95
+
+{"var1": "string val1", "var2": 123, "var3": true, "var4":{"imie":"ola", "nazwisko": "Piekna"}}
+* Connection #0 to host localhost left intact
+
+$ curl -i -v -XPUT -d '{"var1": "string val2", "var2": 321, "var3": false, "var4":[]}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-2?returnbody=true
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s15295/keys/zad1-2?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 62
+>
+} [62 bytes data]
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OkvvKwKAumMGUyJjHynBR6tRtviwA
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Link: </buckets/s15295>; rel="up"
+< Last-Modified: Tue, 15 Jun 2022 15:46:25 GMT
+< ETag: "4GFk83pS68d8gCg3MsPM5J"
+< Date: Tue, 15 Jun 2022 15:46:25 GMT
+< Content-Type: application/json
+< Content-Length: 62
+<
+{ [62 bytes data]
+100   124  100    62  100    62   2234   2234 --:--:-- --:--:-- --:--:--  4592HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OkvvKwKAumMGUyJjHynBR6tRtviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15295>; rel="up"
+Last-Modified: Tue, 15 Jun 2022 15:46:25 GMT
+ETag: "4GFk83pS68d8gCg3MsPM5J"
+Date: Tue, 15 Jun 2022 15:46:25 GMT
+Content-Type: application/json
+Content-Length: 62
+
+{"var1": "string val2", "var2": 321, "var3": false, "var4":[]}
+* Connection #0 to host localhost left intact
+
+$ curl -i -v -XPUT -d '{"var1": "string val3", "var2": 999, "var3": true, "var4":null}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-3?returnbody=true
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s15295/keys/zad1-3?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 63
+>
+} [63 bytes data]
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi/2/enOwKAumMGUyJjHyvBc6tRtviwA
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Link: </buckets/s15295>; rel="up"
+< Last-Modified: Tue, 15 Jun 2022 15:46:47 GMT
+< ETag: "EzdHBWP2KxaE6KOt7EBUs"
+< Date: Tue, 15 Jun 2022 15:46:47 GMT
+< Content-Type: application/json
+< Content-Length: 63
+<
+{ [63 bytes data]
+100   126  100    63  100    63   1753   1753 --:--:-- --:--:-- --:--:--  3600HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi/2/enOwKAumMGUyJjHyvBc6tRtviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15295>; rel="up"
+Last-Modified: Tue, 15 Jun 2022 15:46:47 GMT
+ETag: "EzdHBWP2KxaE6KOt7EBUs"
+Date: Tue, 15 Jun 2022 15:46:47 GMT
+Content-Type: application/json
+Content-Length: 63
+
+{"var1": "string val3", "var2": 999, "var3": true, "var4":null}
+* Connection #0 to host localhost left intact
+
+
+$ curl -i -v -XPUT -d '{"var1": "string val4", "var2": 122, "var3": false, "var4":["ola", "przedszkola"]}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-4?returnbody=true
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s15295/keys/zad1-4?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 82
+>
+} [82 bytes data]
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OMtdhYFAXzGBKZMxjZfgudeo2XxYA
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Link: </buckets/s15295>; rel="up"
+< Last-Modified: Tue, 15 Jun 2022 15:47:03 GMT
+< ETag: "3rREssT5HfWEdwqNN3M0tR"
+< Date: Tue, 15 Jun 2022 15:47:03 GMT
+< Content-Type: application/json
+< Content-Length: 82
+<
+{ [82 bytes data]
+100   164  100    82  100    82   3185   3185 --:--:-- --:--:-- --:--:--  6560HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OMtdhYFAXzGBKZMxjZfgudeo2XxYA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15295>; rel="up"
+Last-Modified: Tue, 15 Jun 2022 15:47:03 GMT
+ETag: "3rREssT5HfWEdwqNN3M0tR"
+Date: Tue, 15 Jun 2022 15:47:03 GMT
+Content-Type: application/json
+Content-Length: 82
+
+{"var1": "string val4", "var2": 122, "var3": false, "var4":["ola", "przedszkola"]}
+* Connection #0 to host localhost left intact
+
+
+
+$ curl -i -v -XPUT -d '{"var1": "string val5", "var2": 4321, "var3": true, "var4":[123, 321]}' -H "Content-Type: application/json"  http://localhost:8098/types/default/buckets/s15295/keys/zad1-5?returnbody=true
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> PUT /types/default/buckets/s15295/keys/zad1-5?returnbody=true HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 70
+>
+} [70 bytes data]
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi/2mlbNwKAumMGUyJjHysAhfeo2XxYA
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Link: </buckets/s15295>; rel="up"
+< Last-Modified: Tue, 15 Jun 2022 15:47:20 GMT
+< ETag: "6Pu6NCmX4Uxwq2gYj2D8ls"
+< Date: Tue, 15 Jun 2022 15:47:20 GMT
+< Content-Type: application/json
+< Content-Length: 70
+<
+{ [70 bytes data]
+100   140  100    70  100    70   2987   2987 --:--:-- --:--:-- --:--:--  6086HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi/2mlbNwKAumMGUyJjHysAhfeo2XxYA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15295>; rel="up"
+Last-Modified: Tue, 15 Jun 2022 15:47:20 GMT
+ETag: "6Pu6NCmX4Uxwq2gYj2D8ls"
+Date: Tue, 15 Jun 2022 15:47:20 GMT
+Content-Type: application/json
+Content-Length: 70
+
+{"var1": "string val5", "var2": 4321, "var3": true, "var4":[123, 321]}
+* Connection #0 to host localhost left intact

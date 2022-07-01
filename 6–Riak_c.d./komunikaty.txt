@@ -1,0 +1,5 @@
+Rekord dodany.
+Pobrany rekord: {u'Imie': u'Latek', u'rodzaj': u'Kon', u'wiek': 15, u'roslinozerca': True}
+Pobrany zaktualizowany rekord: {u'Imie': u'Latek', u'rodzaj': u'Kon', u'wiek': 15, u'roslinozerca': False}
+Usunieto rekord.
+Usuniety rekord: None

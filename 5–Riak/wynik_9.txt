@@ -1,0 +1,47 @@
+$ curl -i http://localhost:8098/buckets/s15295/keys?keys=true                                                                                    % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   113  100   113    0     0  12208      0 --:--:-- --:--:-- --:--:-- 14125HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Tue, 15 Jun 2022 17:27:19 GMT
+Content-Type: application/json
+Content-Length: 113
+
+{"keys":["8HLwLeMCElM07qErYZKsHzvCClC","zad1-5","zad1-1","zad1","zad1-3","zad1-2"]}
+
+$ curl -i -v http://localhost:8098/types/default/buckets/s15295/keys/8HLwLeMCElM07qErYZKsHzvCClC
+*   Trying 127.0.0.1:8098...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 8098 (#0)
+> GET /types/default/buckets/s15295/keys/8HLwLeMCElM07qErYZKsHzvCClC HTTP/1.1
+> Host: localhost:8098
+> User-Agent: curl/7.81.0
+> Accept: */*
+>
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OqHjDwKAumMGUyJjHyrDb8NRtviwA
+< Vary: Accept-Encoding
+< Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+< Link: </buckets/s15295>; rel="up"
+< Last-Modified: Tue, 15 Jun 2022 17:24:11 GMT
+< ETag: "2qOLxFSRYxhD1TJGOR2guq"
+< Date: Tue, 15 Jun 2022 17:28:34 GMT
+< Content-Type: application/json
+< Content-Length: 23
+<
+{ [23 bytes data]
+100    23  100    23    0     0   7901      0 --:--:-- --:--:-- --:--:-- 11500HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi8OqHjDwKAumMGUyJjHyrDb8NRtviwA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15295>; rel="up"
+Last-Modified: Tue, 15 Jun 2022 17:24:11 GMT
+ETag: "2qOLxFSRYxhD1TJGOR2guq"
+Date: Tue, 15 Jun 2022 17:28:34 GMT
+Content-Type: application/json
+Content-Length: 23
+
+{"var1": "string val6"}
+* Connection #0 to host localhost left intact
